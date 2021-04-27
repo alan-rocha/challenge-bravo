@@ -34,7 +34,7 @@
         "axios": "^0.19.0",
         "express": "^4.17.1",
         "helmet": "^3.20.0",
-        "redis": "^2.8.0"
+        "redis": "^3.1.1"
     },
     "devDependencies": {
         "artillery": "^1.6.0-28",
