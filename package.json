@@ -39,7 +39,7 @@
     "devDependencies": {
         "artillery": "^1.6.0-28",
         "chai": "^4.2.0",
-        "mocha": "^6.2.0",
+        "mocha": "^10.1.0",
         "nock": "^10.0.6",
         "nyc": "^14.1.1",
         "supertest": "^4.0.2"
